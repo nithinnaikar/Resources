@@ -10,11 +10,10 @@ Machine Learning:
 - Machine Learning by Andrew Ng
 
 Deep Learning:
-- Deep Learning Specialization (courses 1 - 5) by Andrew Ng on Coursera (still in progress)
-- Practical Deep Learning by Fast AI (still in progress) 
+- Introduction to Deep Learning by MIT 6.S191 (in progress)
 
 Reinforcement Learning:
-- Introduction to RL By David Silver (still in progress)
+- Introduction to RL By David Silver 
 - Open AI Spinning Up (Practical tips) (still in progress)
 
 
