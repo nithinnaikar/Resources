@@ -12,8 +12,5 @@ Machine Learning:
 Deep Learning:
 - Introduction to Deep Learning by MIT 6.S191 (in progress)
 
-Reinforcement Learning:
-- Introduction to RL By David Silver 
-- Open AI Spinning Up (Practical tips) (still in progress)
 
 
