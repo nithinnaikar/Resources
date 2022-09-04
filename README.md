@@ -1,6 +1,9 @@
 # Resources
 A list of all the resources I am using to learn Computer Science as a high school student.
 
+Principles of Computer Science (hardware, networking, etc.):
+- AP Computer Science Principles 
+
 Python:
 - Introduction to Computer Science in Python by MIT OCW
 
