@@ -13,8 +13,9 @@ C++:
 Java:
 - AP Computer Science A 
 
-Data Structures and Algorithms:
-- Program in Algorithmic and Combinatorial Thinking Summer Program (covering discrete mathematics) + Year Round Program (covering algorithms). 
+Basic Algorithm Design and Problem Solving:
+- Program in Algorithmic and Combinatorial Thinking Summer Program.
+- HS Discrete Math Class
 - Introduction to Computer Science in Python by MIT OCW
 
 Machine Learning:
